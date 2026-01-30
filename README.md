@@ -1,5 +1,7 @@
 # 1С:JSON (oscript-json)
 
+[![Used by](https://litrosbadges.ru/package/json.svg)](https://litrosbadges.ru/package/json)
+
 Данная библиотека предназначена для парсинга и сериализации JSON в среде 1Script.
 
 > **ВНИМАНИЕ: Проект устарел!**
